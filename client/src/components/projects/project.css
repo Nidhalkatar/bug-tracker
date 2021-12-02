@@ -1,0 +1,10 @@
+.project-card {
+    display: flex;
+    justify-content: space-around;
+    margin: 2%;
+}
+.project-btns {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

@@ -1,0 +1,11 @@
+.bugs-card {
+    display: flex;
+    justify-content: center;
+    margin: 2%;
+    
+}
+.bug-btns {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

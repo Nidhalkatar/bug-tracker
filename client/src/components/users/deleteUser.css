@@ -1,0 +1,9 @@
+.button-delete {
+    background-color: black; 
+    width: 100px;  
+    margin: 1%;
+   }
+a {
+    text-decoration: none;
+    color: white;
+}
